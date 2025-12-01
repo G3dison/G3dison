@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🦉 No soy de aquí, ni soy de allá.<br>🎻 Futuro hacker en problemas<br>🍁 Si lo puedo imaginar, lo puedo romper<br>🍂 Mi sueño es llegar a fin de mes</p>
+<p align="left">🦉 No soy de aquí, ni soy de allá.<br>🎻 Futuro hacker en decadencia.<br>🍁 Si lo puedo imaginar, lo puedo romper.<br>🍂 Mi sueño es llegar a fin de mes...</p>
 
 ###
 
