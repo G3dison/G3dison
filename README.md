@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Un programador con ganas de ver el mundo arder...</p>
+<p align="left">Un programador con gusto por la maquinaria pesada...</p>
 
 ###
 
